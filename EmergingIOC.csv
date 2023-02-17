@@ -80,6 +80,7 @@ fee0935cec808fe27112cf3c40e91d4702872f43064e9e9f71f9f1e6a8894eaf,SHA256_IOCs,Ran
 194.5.97.17,IP_IOCs,Ransomware-ESXiArgs
 217.12.206.116,IP_IOCs,Ransomware-ESXiArgs
 45.134.83.29,IP_IOCs,Ransomware-ESXiArgs
+70.73.239.101,IP_IOCs,JSHome
 ponzix.net,DNS_IOCs,Ransomware-ESXiArg
 screenshot.icu,DNS_IOCs,Ransomware-ESXiArg
 screenshotcap.com,DNS_IOCs,Ransomware-ESXiArg
