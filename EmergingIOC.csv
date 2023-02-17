@@ -3,7 +3,7 @@
 # Last updated: 2023-FEB-17                                    #
 ################################################################
 #
-# IOC,Type,Actor
+# IOC,IOCType,ThreatActor
 02d605b7e07b9026104d8160602b0142,MD5_IOCs,Ransomware-ESXiArgs
 1338724baec048f600ed982ad811ecf0,MD5_IOCs,Ransomware-ESXiArgs
 16696fa8c9700b2b12ca309747eecd70,MD5_IOCs,Ransomware-ESXiArgs
